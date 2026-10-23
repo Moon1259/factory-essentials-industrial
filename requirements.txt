@@ -1,0 +1,7 @@
+stripe
+flask
+pydantic
+google-genai
+requests
+gunicorn
+psycopg2-binary
